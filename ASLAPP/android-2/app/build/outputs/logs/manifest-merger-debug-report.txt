@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/1c6c8dd8984d87f1b3f45f0604d09b49/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/4f52b1f047f524ea54e6bfd20a1f7732/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b7e43138ba3e71ace8ec5ee02061676d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/2a83c2380fb7d793ac53beda8c8e4f07/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/97f5ffd4d17e315100c073a5cea607e1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/a69e1c31661a3fd92e3285811d3df738/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/41f80e79496117b85b6bde729146ad8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/daf44fe08bcc4451f50e68deaf549b13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/277575788ebb812da6f1ac8435f7363c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/fe6a30660e82c6328ec2ef13a138d5c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/48cd8cc47eab256f7781fd96f7799818/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/9ce2c42ce2b8febc47ba858db2c0f710/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/83c5e675efc874ab4d5be683fd0e04be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/4d29713aaba51af71bc0abe5bd80d3ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/66e37400208261b167a89d82ae1c1e46/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/d4ecab4a7fae95818a9193776e4c36d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/357546a03156832aa10e611439eb9f18/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/718d3ec593ec94a846d7ac6e93d5c352/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/762da73b0d651e9baef164436be1902f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/75b95d49f8292625f08088f02b9ca8ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/bbf0eb3ded598c9b8b289167b5a70759/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/a0aada1449ce103a3bf9a1b02dd03300/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/3e03446981ff73bfacff4bea29c193f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/96e731aecd373a7f49dd3ce40eefd214/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/14fb44e2753b045aaf9c6af697b5fde3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/3299c01a830d20210c872a7aa7f6ac1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/869394a578226dd1e0fff04fff933cef/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0f898d8a08e6d7cfe2d43809e0a1d304/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/7a946ee4a8c4b111f18846ceb9c3b613/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/424b539e1b94724d7ec15a4488aaafd8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9e9fbb8584ca3c2ec0a0e43a5b43bafd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9e870d7a19eba00a7519d2d50ded61ec/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:6:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:8:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:13:5-64
+	android:name
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:13:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:14:5-70
+	android:name
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:14:22-68
+application
+ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:16:5-37:19
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/1c6c8dd8984d87f1b3f45f0604d09b49/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/1c6c8dd8984d87f1b3f45f0604d09b49/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b7e43138ba3e71ace8ec5ee02061676d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b7e43138ba3e71ace8ec5ee02061676d/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/97f5ffd4d17e315100c073a5cea607e1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/97f5ffd4d17e315100c073a5cea607e1/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/bbf0eb3ded598c9b8b289167b5a70759/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/bbf0eb3ded598c9b8b289167b5a70759/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/a0aada1449ce103a3bf9a1b02dd03300/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/a0aada1449ce103a3bf9a1b02dd03300/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/bbf0eb3ded598c9b8b289167b5a70759/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:22:9-40
+activity#com.example.amine.learn2sign.MainActivity
+ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:23:9-50
+	android:name
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:23:19-47
+activity#com.example.amine.learn2sign.LoginActivity
+ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:24:9-33:20
+	android:label
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:26:13-45
+	android:theme
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:25:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:31:27-74
+activity#com.example.amine.learn2sign.UploadActivity
+ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:34:9-52
+	android:name
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:34:19-49
+activity#com.example.amine.learn2sign.VideoActivity
+ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:35:9-36:61
+	android:screenOrientation
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml:35:19-48
+uses-sdk
+INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/1c6c8dd8984d87f1b3f45f0604d09b49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/1c6c8dd8984d87f1b3f45f0604d09b49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/4f52b1f047f524ea54e6bfd20a1f7732/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/4f52b1f047f524ea54e6bfd20a1f7732/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b7e43138ba3e71ace8ec5ee02061676d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b7e43138ba3e71ace8ec5ee02061676d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/2a83c2380fb7d793ac53beda8c8e4f07/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/2a83c2380fb7d793ac53beda8c8e4f07/AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/97f5ffd4d17e315100c073a5cea607e1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/97f5ffd4d17e315100c073a5cea607e1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/a69e1c31661a3fd92e3285811d3df738/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/a69e1c31661a3fd92e3285811d3df738/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/41f80e79496117b85b6bde729146ad8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/41f80e79496117b85b6bde729146ad8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/daf44fe08bcc4451f50e68deaf549b13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/daf44fe08bcc4451f50e68deaf549b13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/277575788ebb812da6f1ac8435f7363c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/277575788ebb812da6f1ac8435f7363c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/fe6a30660e82c6328ec2ef13a138d5c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/fe6a30660e82c6328ec2ef13a138d5c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/48cd8cc47eab256f7781fd96f7799818/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/48cd8cc47eab256f7781fd96f7799818/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/9ce2c42ce2b8febc47ba858db2c0f710/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/9ce2c42ce2b8febc47ba858db2c0f710/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/83c5e675efc874ab4d5be683fd0e04be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/83c5e675efc874ab4d5be683fd0e04be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/4d29713aaba51af71bc0abe5bd80d3ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/4d29713aaba51af71bc0abe5bd80d3ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/66e37400208261b167a89d82ae1c1e46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/66e37400208261b167a89d82ae1c1e46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/d4ecab4a7fae95818a9193776e4c36d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/d4ecab4a7fae95818a9193776e4c36d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/357546a03156832aa10e611439eb9f18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/357546a03156832aa10e611439eb9f18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/718d3ec593ec94a846d7ac6e93d5c352/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/718d3ec593ec94a846d7ac6e93d5c352/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/762da73b0d651e9baef164436be1902f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/762da73b0d651e9baef164436be1902f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/75b95d49f8292625f08088f02b9ca8ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/75b95d49f8292625f08088f02b9ca8ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/bbf0eb3ded598c9b8b289167b5a70759/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/bbf0eb3ded598c9b8b289167b5a70759/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/a0aada1449ce103a3bf9a1b02dd03300/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/a0aada1449ce103a3bf9a1b02dd03300/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/3e03446981ff73bfacff4bea29c193f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/3e03446981ff73bfacff4bea29c193f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/96e731aecd373a7f49dd3ce40eefd214/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/96e731aecd373a7f49dd3ce40eefd214/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/14fb44e2753b045aaf9c6af697b5fde3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/14fb44e2753b045aaf9c6af697b5fde3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/3299c01a830d20210c872a7aa7f6ac1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/3299c01a830d20210c872a7aa7f6ac1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/869394a578226dd1e0fff04fff933cef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/869394a578226dd1e0fff04fff933cef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0f898d8a08e6d7cfe2d43809e0a1d304/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0f898d8a08e6d7cfe2d43809e0a1d304/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/7a946ee4a8c4b111f18846ceb9c3b613/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/7a946ee4a8c4b111f18846ceb9c3b613/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/424b539e1b94724d7ec15a4488aaafd8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/424b539e1b94724d7ec15a4488aaafd8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9e9fbb8584ca3c2ec0a0e43a5b43bafd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9e9fbb8584ca3c2ec0a0e43a5b43bafd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9e870d7a19eba00a7519d2d50ded61ec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/jadenwass/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9e870d7a19eba00a7519d2d50ded61ec/AndroidManifest.xml:20:5-44
+INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jadenwass/Desktop/CSE 535/android-2/app/src/main/AndroidManifest.xml
